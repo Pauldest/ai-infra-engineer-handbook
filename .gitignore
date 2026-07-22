@@ -1,0 +1,8 @@
+# Compiled binaries
+*.o
+*.out
+a.out
+my_shared_ptr
+cyclic
+# but keep source
+!*.cpp
