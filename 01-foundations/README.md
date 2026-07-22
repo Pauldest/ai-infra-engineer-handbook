@@ -47,7 +47,11 @@
 
 > 📌 **专项计划**：如果你「C++ 学了很久但感觉模糊」，见 [C++「走出模糊」4–6 周学习计划](./cpp-4-6-week-plan.md) —— 每周任务 + 可运行的验证代码 + 过关自测。
 >
-> 📖 **精读教材**：[从零实现 shared_ptr —— 17 个 C++ 知识点详解](./shared_ptr-deep-dive.md)（配套可运行代码在 [`code/`](./code/)）。
+> 📖 **精读教材**：
+> - [从零实现 shared_ptr —— 17 个 C++ 知识点详解](./shared_ptr-deep-dive.md)
+> - [移动语义 & unique_ptr —— 彻底搞懂「移动」到底移动了什么](./move-semantics-deep-dive.md)
+>
+> 配套可运行代码在 [`code/`](./code/)。
 
 ---
 

@@ -6,3 +6,4 @@ my_shared_ptr
 cyclic
 # but keep source
 !*.cpp
+my_unique_ptr
