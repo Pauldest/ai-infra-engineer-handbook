@@ -50,6 +50,7 @@
 > 📖 **精读教材**：
 > - [从零实现 shared_ptr —— 17 个 C++ 知识点详解](./shared_ptr-deep-dive.md)
 > - [移动语义 & unique_ptr —— 彻底搞懂「移动」到底移动了什么](./move-semantics-deep-dive.md)
+> - [C++ 版本演进 × 现代特性全景图](./cpp-versions-evolution.md)（RAII/智能指针/移动语义/atomic 分别在哪版引入）
 >
 > 配套可运行代码在 [`code/`](./code/)。
 
